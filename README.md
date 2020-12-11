@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Abigail's Personal Portfolio & Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Attribution
+
+To learn Sanity.io, check out the [Sanity YouTube Video](https://www.youtube.com/watch?v=NO7_jgzVgbc&list=PL1z8BN7AiHCar4D15-uL3_NXF06KsZrbW&index=4&t=4656s)
+
+Thanks goes to Kapehe for producing this video. Very educational and fun! You can find her here:\
+[Twitter](https://twitter.com/kapehe_ok)\
+[YouTube](https://www.youtube.com/c/kapehe)\
+[Website](https://kapehe.io)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and Sanity.io Studio.
 
 ## Available Scripts
 
@@ -10,6 +19,10 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `sanity start`
+
+Starts the sanity studio. Open [http://localhost:3333](http://localhost:3333) to view and add data to the Portfolio project.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
